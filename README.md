@@ -12,8 +12,6 @@
 - 支持CDN套用
 - 支持Fallback分流设置
 
-### 详情请参照VPS搭建教程：https://youtu.be/i5iDHRJiJ7c
-
 ## 一、 准备工作
 
 - 1、已经解析的域名，Win+R输入CMD 回车：键入ping 空格输入你的域名，检查一下是否可以ping通
